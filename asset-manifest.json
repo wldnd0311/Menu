@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.d994eed7.css",
-    "main.js": "/static/js/main.79d17e09.js",
-    "static/js/787.fba57ea3.chunk.js": "/static/js/787.fba57ea3.chunk.js",
-    "static/media/세트.png": "/static/media/세트.44f1dafc158cfae5f521.png",
-    "static/media/어묵탕.jpg": "/static/media/어묵탕.d7a0b5e1e43db83bbdf6.jpg",
-    "static/media/소야.jpg": "/static/media/소야.dae60a9e4db9abefe568.jpg",
-    "static/media/떡볶이.jpg": "/static/media/떡볶이.3bca2dd5ef93944394f2.jpg",
-    "index.html": "/index.html",
-    "main.d994eed7.css.map": "/static/css/main.d994eed7.css.map",
-    "main.79d17e09.js.map": "/static/js/main.79d17e09.js.map",
-    "787.fba57ea3.chunk.js.map": "/static/js/787.fba57ea3.chunk.js.map"
+    "main.css": "/menu/static/css/main.d994eed7.css",
+    "main.js": "/menu/static/js/main.a72b7fff.js",
+    "static/js/787.fba57ea3.chunk.js": "/menu/static/js/787.fba57ea3.chunk.js",
+    "static/media/세트.png": "/menu/static/media/세트.44f1dafc158cfae5f521.png",
+    "static/media/어묵탕.jpg": "/menu/static/media/어묵탕.d7a0b5e1e43db83bbdf6.jpg",
+    "static/media/소야.jpg": "/menu/static/media/소야.dae60a9e4db9abefe568.jpg",
+    "static/media/떡볶이.jpg": "/menu/static/media/떡볶이.3bca2dd5ef93944394f2.jpg",
+    "index.html": "/menu/index.html",
+    "main.d994eed7.css.map": "/menu/static/css/main.d994eed7.css.map",
+    "main.a72b7fff.js.map": "/menu/static/js/main.a72b7fff.js.map",
+    "787.fba57ea3.chunk.js.map": "/menu/static/js/787.fba57ea3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d994eed7.css",
-    "static/js/main.79d17e09.js"
+    "static/js/main.a72b7fff.js"
   ]
 }
